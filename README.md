@@ -7,7 +7,7 @@ Instead of navigating dashboards, leaders can directly **ask business questions*
 
 ## 🚀 Live Demo
 
-🔗 [Launch Talking Rabbitt](https://talking-rabbitt-mcp-v2.streamlit.app)
+🔗 [Launch Talking Rabbitt](https://talking-rabbitt-mcp-v2-vvbgasgwyzkqvo7hwued3v.streamlit.app/)
 
 ---
 
